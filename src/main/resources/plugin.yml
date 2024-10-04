@@ -1,0 +1,8 @@
+name: Jobs
+version: '${project.version}'
+main: ch.andu.job.Job
+api-version: 1.18
+authors: [ anducrafter ]
+description: The skysucht job system
+commands:
+  job:
